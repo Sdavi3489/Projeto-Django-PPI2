@@ -1,5 +1,6 @@
 # Projeto-Django-PPI2
 **Autor: Davi Soares Sousa Santos**
+
 **Tecnologias utilizadas:**
 - Python
 - Django
