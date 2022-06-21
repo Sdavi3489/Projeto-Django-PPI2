@@ -12,3 +12,6 @@ O repositório se refere ao projeto realizado em sala de aula na disciplina de P
 
 # Sobre o projeto
 O projeto realizado em sala de aula será desenvolvido com a linguagem de programação Python utilizando o framework Django com o intuito de desenvolver aplicações web.
+
+# Documento de implantação
+O documento de implantação em construção.
