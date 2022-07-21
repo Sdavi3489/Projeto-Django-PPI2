@@ -29,4 +29,4 @@ O projeto realizado em sala de aula será desenvolvido com a linguagem de progra
 5. Na aplicação o usuários poderá convidar outros usuários, além disso é possível aceitar convites também.
 
 # Documento de implantação
-O documento de implantação em construção.
+Documento de implantação disponível na raiz do repositório em pdf. 
